@@ -6,8 +6,7 @@ self.addEventListener('install', (event) => {
         '/index.html',
         '/style.css',
         '/script.js',
-        '/promociones.html',
-        '/productos-ventas.html',
+        '/splash.js',
 
         // Agrega otros archivos que necesites en el caché
       ]);
